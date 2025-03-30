@@ -9,6 +9,7 @@ Vektor dan operasi dasarnya (seperti dot product) adalah fondasi utama dalam Mac
 - Definisi & representasi vektor.
 - Operasi dasar: penjumlahan, pengurangan, dan skalar.
 - Visualisasi vektor di ruang 2D & 3D. <br>
+
 📌 Dot Product (Perkalian Titik)
 - Definisi dan rumus:
 
