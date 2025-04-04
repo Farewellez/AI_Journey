@@ -155,6 +155,37 @@ Di mana:
 - $\mathbf{d}$ adalah arah vektor,
 - $\mathbf{t}$ adalah skalar.
 
-\[
-\text{Contoh dalam } \mathbb{R}^2: \text{ Jika } \mathbf{p_0} = \begin{bmatrix} 1 \\ 2 \end{bmatrix} \text{ dan } \mathbf{d} = \begin{bmatrix} 3 \\ -1 \end{bmatrix}, \text{ maka garisnya adalah:}
-\]
+Contoh dalam R²: Jika $\mathbf{p_0}$ didefinisikan sebagai berikut:
+
+$$
+\mathbf{p_0} = \begin{bmatrix} 1 \\ 
+2 
+\end{bmatrix}
+$$
+
+dan $\mathbf{d}$:
+
+$$
+\mathbf{d} = \begin{bmatrix} 3 \\ 
+-1 
+\end{bmatrix}, \text{maka garisnya adalah:}
+$$
+
+$$
+\mathbf{p(t)} = \begin{bmatrix}
+1 \\
+2 \end{bmatrix} + \mathbf{t} \begin{bmatrix}
+3 \\
+-1 \end{bmatrix}
+$$
+
+---
+
+### 🎯 Kesimpulan
+- Vektor merepresentasikan besaran dengan magnitude dan arah.
+- Operasi vektor mencakup penjumlahan, pengurangan, dan perkalian skalar.
+- Kombinasi linear & span membantu memahami struktur ruang vektor.
+- Basis & dimensi menunjukkan jumlah vektor independen minimum yang dapat merepresentasikan suatu ruang.
+- Representasi parametrik garis menunjukkan bagaimana garis dinyatakan dalam ruang vektor.
+
+<p align="justify">Materi ini merupakan fondasi penting dalam Machine Learning karena vektor sering digunakan dalam representasi data, model linear, dan transformasi ruang fitur.</p>
