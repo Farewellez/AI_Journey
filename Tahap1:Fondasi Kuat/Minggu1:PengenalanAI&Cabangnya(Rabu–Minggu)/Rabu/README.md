@@ -23,7 +23,7 @@ Memahami pengertian dan hubungan antara AI, ML, dan DL serta contoh aplikasinya.
 
 | Tipe | Judul | Link | Status |
 | --- | --- | --- | --- |
-| 📄 Artikel | What is AI – IBM | [Baca di sini](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence) | Done ✅  |
+| 📄 Artikel | What is AI – IBM | [Baca di sini](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence) |  |
 | 📺 Video | AI vs ML vs DL (Simplilearn) | [Tonton di sini](https://www.youtube.com/watch?v=YcT1t5pzxog) |  |
 | 📄 Tambahan | AI vs ML vs DL (GeeksForGeeks) | [Baca di sini](https://www.geeksforgeeks.org/difference-between-ai-ml-and-dl/) |  |
 
@@ -33,11 +33,9 @@ Memahami pengertian dan hubungan antara AI, ML, dan DL serta contoh aplikasinya.
 
 | Checklist | Status |
 | --- | --- |
-| ✅ Baca artikel IBM | Done ✅  |
+| ✅ Baca artikel IBM |  |
 | ✅ Tonton video Simplilearn |  |
 | ✅ Catat pengertian AI, ML, DL |  |
 | ✅ Gambar sketsa hubungan AI → ML → DL |  |
 | ✅ Buat contoh nyata tiap teknologi |  |
 | ✅ Jawab oleh-oleh: “Kenapa semua DL adalah ML tapi tidak semua ML adalah DL” |  |
-
----
