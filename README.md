@@ -83,5 +83,3 @@ Fokus membangun proyek AIoT, showcase ke GitHub, dan eksplorasi peluang global.
 
 - Smart Home System prediktif menggunakan data sensor simulasi
 - Showcase GitHub & website AI pribadi (integrasi avatar AI milikmu)
-
-[Struktur Tahap 1: Fondasi Kuat (Level 1–10) – Draft Mingguan ](https://www.notion.so/Struktur-Tahap-1-Fondasi-Kuat-Level-1-10-Draft-Mingguan-1d02f51475ce80378e18cf790211077b?pvs=21)
