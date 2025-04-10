@@ -1,59 +1,115 @@
-# 🧭Struktur Tahap 1: Fondasi Kuat (Level 1–10) – Draft Mingguan
-
-Kita akan mulai dari 4 topik utama:
-
-1. Pengenalan AI
-2. Matematika Dasar untuk AI (pecah jadi 3 bagian besar)
-3. Dasar Pemrograman Python
-4. Pengenalan Komputasi Awan
+# 📅Minggu 1: Pengenalan AI & Cabangnya (Rabu–Minggu)
 
 ---
 
-## 📅 **Minggu 1: Pengenalan AI & Cabangnya**
+### ✅ **Hari Rabu – Apa itu AI? ML? DL?**
 
-### 🎯 Tujuan:
+**🎯 Tujuan:** Mengenal perbedaan antara AI, ML, dan DL secara konseptual.
 
-- Memahami definisi, sejarah, dan cabang-cabang AI.
-- Mengetahui peran AI dalam IoT dan aplikasi dunia nyata.
+**📚 Materi:**
 
-### 🗂️ Materi:
+- Definisi dan hubungan: AI ⊇ ML ⊇ DL
+- Konsep dasar Machine Learning: supervised, unsupervised, reinforcement
 
-- Apa itu AI? Machine Learning? Deep Learning?
-- Sejarah singkat AI
-- Cabang AI (CV, NLP, RL, Robotics, Expert Systems, dsb)
-- Peran AI dalam IoT (khususnya rumah pintar dan robotik)
+**🔍 Referensi:**
 
-### 📚 Referensi:
+- Artikel IBM: What is AI
+- [YouTube: AI vs ML vs DL (Simplilearn)](https://www.youtube.com/watch?v=YcT1t5pzxog)
 
-- The Hundred-Page ML Book – Chapter 1
-- [YouTube: What is AI (Crash Course)](https://www.youtube.com/watch?v=n1ViNeWhC24)
-- Artikel dari DeepAI: What is Artificial Intelligence
+**🛠️ Praktik Ringan:**
 
-### 🛠️ Praktik:
+- Buat sketsa visual: hubungan AI → ML → DL
+- Cari contoh nyata masing-masing (di rumah, medsos, kampus)
 
-- Buat mindmap hubungan AI, ML, DL, dan IoT
-- Simulasi pencarian aplikasi AI di rumah pintar (boleh berupa gambar/sketsa/flow)
+**🎁 Oleh-oleh:**
 
-### 🎁 Oleh-Oleh Latihan:
-
-- Jelaskan perbedaan AI vs ML vs DL ke dalam 5 kalimat.
-- Tulis jurnal: "AI yang paling ingin aku kuasai dan alasannya".
-- Buat 1 pertanyaan mendalam dari materi yang membuatmu penasaran.
+- Jelaskan dalam 1 paragraf: kenapa semua DL adalah ML, tapi tidak semua ML adalah DL.
 
 ---
 
-## 🔜 Preview Minggu 2–4 (Akan kita detailkan per minggu)
+### ✅ **Hari Kamis – Sejarah Singkat AI**
 
-| Minggu | Fokus | Catatan |
-| --- | --- | --- |
-| 2–3 | Aljabar Linear (Vektor & Matriks) | Mulai dari ruang vektor, operasi dasar, dan visualisasi NumPy |
-| 4 | Evaluasi mini-proyek Vektor | Visualisasi vektor/matriks dengan NumPy & Matplotlib |
+**🎯 Tujuan:** Memahami perkembangan AI dari masa ke masa
 
-Setelah itu lanjut ke:
+**📚 Materi:**
 
-- **Minggu 5–6:** Kalkulus Dasar (turunan, gradient)
-- **Minggu 7–8:** Probabilitas & Statistika (distribusi, mean, variance, dsb)
-- **Minggu 9:** Dasar Python (struktur data, NumPy, Pandas)
-- **Minggu 10:** Komputasi Awan (pengantar GCP, Colab, dsb)
+- Era awal (Turing, 1950-an)
+- AI Winter (penurunan)
+- Kebangkitan AI modern (big data, GPU, LLM)
 
-[Minggu 1: Pengenalan AI & Cabangnya (Rabu–Minggu)](https://www.notion.so/Minggu-1-Pengenalan-AI-Cabangnya-Rabu-Minggu-1d02f51475ce8046a754d4bbd53ffcad?pvs=21)
+**🔍 Referensi:**
+
+- History of AI (Towards Data Science)
+- [YouTube: History of AI in 10 minutes](https://www.youtube.com/watch?v=JMUxmLyrhSk)
+
+**🛠️ Praktik Ringan:**
+
+- Buat timeline perkembangan AI (boleh pakai tools online/catatan)
+
+**🎁 Oleh-oleh:**
+
+- Tulis 1 momen paling menarik menurutmu dari sejarah AI dan alasannya
+
+---
+
+### ✅ **Hari Jumat – Cabang-Cabang AI**
+
+**🎯 Tujuan:** Mengetahui berbagai cabang dalam AI dan aplikasinya
+
+**📚 Materi:**
+
+- NLP, Computer Vision, Robotics, Expert System, Reinforcement Learning
+- Contoh aplikasi nyata
+
+**🔍 Referensi:**
+
+- GeeksForGeeks – Branches of AI
+- [YouTube: Major Fields in AI](https://www.youtube.com/watch?v=cogPDU9vRaE)
+
+**🛠️ Praktik Ringan:**
+
+- Buat tabel: Cabang AI – Penjelasan – Contoh penggunaan
+
+**🎁 Oleh-oleh:**
+
+- Pilih 2 cabang AI yang paling kamu minati, dan jelaskan kenapa
+
+---
+
+### ✅ **Hari Sabtu – Peran AI dalam IoT**
+
+**🎯 Tujuan:** Mengenal sinergi AI + IoT khususnya dalam rumah pintar dan robot
+
+**📚 Materi:**
+
+- Definisi IoT
+- Contoh integrasi AI dalam sistem IoT (sensor, aktuator, pengambilan keputusan)
+
+**🔍 Referensi:**
+
+- AI + IoT (Intel Article)
+- [YouTube: AIoT Explained](https://www.youtube.com/watch?v=nzrHU9SDtWc)
+
+**🛠️ Praktik Ringan:**
+
+- Buat sketsa sistem rumah pintar impianmu (AI + sensor apa aja?)
+- Jelaskan sistemnya secara sederhana
+
+**🎁 Oleh-oleh:**
+
+- Tuliskan 3 manfaat AI dalam sistem rumah pintar/robotik yang kamu pikirkan
+
+---
+
+### ✅ **Hari Minggu – Refleksi & Review**
+
+**🎯 Tujuan:** Menyimpulkan pemahaman Minggu 1 dan menyiapkan minggu berikutnya
+
+**🛠️ Tugas:**
+
+- Tulis ringkasan 1 halaman: “Apa itu AI dan mengapa aku ingin mempelajarinya?”
+- Review materi dan buat 3 pertanyaan kritis dari minggu ini
+
+**🎁 Oleh-oleh:**
+
+- Buat video/audio singkat (1–2 menit): jelaskan cabang AI favoritmu dan idemu untuk menggunakannya
