@@ -1,6 +1,6 @@
 # 🤖A.I Journey
 
-## 📍 **Personalized AI Roadmap: Versi Upgrade (Mulai dari Vektor)**
+## 📍 **Personalized AI Roadmap: Versi Upgrade**
 
 ### 🧠 Fokus: AI Core + Aplikasi IoT + Persiapan Karier Internasional
 
