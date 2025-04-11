@@ -1,7 +1,5 @@
 # 🧠**Hari Kamis – Evolusi & Sejarah AI + Studi Kasus**
 
----
-
 ### 🎯 **Tujuan Hari Ini:**
 
 - Memahami perkembangan AI dari masa ke masa.
