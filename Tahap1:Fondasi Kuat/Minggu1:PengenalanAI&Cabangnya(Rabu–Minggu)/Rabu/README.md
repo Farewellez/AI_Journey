@@ -1,4 +1,4 @@
-# 🧠Hari Rabu – Apa Itu AI, ML, dan DL?
+# Hari Rabu – Apa Itu AI, ML, dan DL?
 
 ### 🎯 Tujuan:
 
